@@ -1,5 +1,5 @@
 # odin-recipes
-This project contains recipes for some of the most popular coctails.
+This project contains recipes for some of the most popular cocktails.
 
 ## Recipes
 
